@@ -1,13 +1,19 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br/>
 
 ## Hi there 👋, 
 I'm khawla, I'm a Software engineering student at Holberton School 👨‍💻
 
+<h3>🛠 Tech Stack</h3>
 
-<p href="https://github.com/khawladaouay">
+- 💻 &nbsp; Python | C | HTML | CSS 
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Visual Studio code | Git
+
+ href="https://github.com/khawladaouay">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawladaouay&theme=dark&layout=compact" width="420" />
-</p>
+  <a href="https://github.com/khawladaouay"><img src="https://activity-graph.herokuapp.com/graph?username=khawladaouay&bg_color=130F40&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
